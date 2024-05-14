@@ -1,0 +1,33 @@
+{
+  "name": "selenium-js",
+  "version": "1.0.0",
+  "main": "loginPage.spec.js",
+  "scripts": {
+    "test": "wdio",
+    "test-w": "wdio --watch",
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "@babel/register": "^7.23.7",
+    "@types/node": "^20.12.8",
+    "@types/webdriverio": "^5.0.0",
+    "@wdio/browser-runner": "^8.36.1",
+    "@wdio/cli": "^8.36.1",
+    "@wdio/globals": "^8.36.1",
+    "@wdio/local-runner": "^8.36.1",
+    "@wdio/mocha-framework": "^8.36.1",
+    "@wdio/runner": "^8.36.1",
+    "@wdio/visual-service": "^4.1.2",
+    "dotenv": "^16.4.5",
+    "webdriverio": "^8.36.1"
+  },
+  "dependencies": {
+    "@wdio/protocols": "^8.32.0"
+  }
+}

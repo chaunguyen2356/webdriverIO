@@ -1,0 +1,63 @@
+{
+  "USER_FOR_SKALE_ACCOUNT": {
+    "username": "chautest15@yopmail.com",
+    "password": "Trongchau007@"
+  },
+  "USER_FOR_SKALE_ACCOUNT_2": {
+    "username": "chautest1@yopmail.com",
+    "password": "123123"
+  },
+  "USERNAME_FOR_REGEX": {
+    "EMAIL": [
+      "niceandsimple@gmail.com",
+      "very.common@gmail.com",
+      "disposable.style.email.with+symbol@gmail.com",
+      "other.email-with-dash@gmail.com",
+      "invalid--email@gmail.com",
+      "invalid++email@gmail.com",
+      "invalid..email@gmail.com",
+      "-invalid-email@gmail.com",
+      "invalid--email-@gmail.com",
+      "criscrisaaaa@gmail.com.es",
+      "criscrisaaaa@gmail.com.es.es",
+      "http://regexr.com/foo.html?q=bar",
+      "xn-fsqu00a.xn-0zwm56d",
+      "xn-fsqu00a.xn-0zwm56d@gmail.com",
+      "xn-fsqu00a.xn-0zwm56d@gmail123.com",
+      "xn-fsqu00a.xn-0zwm56d@234.com",
+      "a-1234567890-1234567890-1234567890-1234567890-1234567890-12345-z.eu.us",
+      " ",
+      "chautest@yopmail.com"
+    ],
+    "PHONE": [
+      "+849367788755",
+      "09367788755",
+      "849367788755",
+      "8489829304",
+      "+84 6308520397",
+      "+84.6308520397",
+      "786-307-3615",
+      "789",
+      "123765",
+      "1-1-1",
+      "+842"
+    ]
+  },
+  "PASSWORD_FOR_REGEX": {
+    "PASSWORD": [
+      "_}24I:9t58Tu?m@e",
+      "|YlzEc|1",
+      "#m_4xF%tBu5jeb$",
+      "Password1!",
+      "12345678aA",
+      "^@};^@};^@};",
+      "12345678aA@ ",
+      "12345678 aA@",
+      "12345678aA@",
+      "AbCdEfGhIi",
+      "abcdefgh123",
+      "ABCDEFGH1234;",
+      "ABCDEFGH1234;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+    ]
+  }
+}

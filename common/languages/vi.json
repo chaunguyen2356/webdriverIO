@@ -1,0 +1,28 @@
+{
+  "sign_up": {
+    "label": {
+      "title_page": "Đăng Ký Tài Khoản",
+      "fullname": "Họ và tên",
+      "username": "Email hoặc Số điện thoại",
+      "password": "Mật khẩu",
+      "confirm_password": "Xác nhận mật khẩu"
+    },
+    "placeholder": {
+      "fullname": "Nhập họ và tên",
+      "username": "Nhập Email hoặc Số điện thoại",
+      "password": "Nhập mật khẩu",
+      "confirm_password": "Nhập mật khẩu xác nhận"
+    },
+    "button": {
+      "submit": "Tạo tài khoản",
+      "back": "Trở lại",
+      "languages": {
+        "label": "Ngôn ngữ",
+        "vi": "Tiếng Việt",
+        "en": "Englist"
+      }
+    },
+    "rule_text": "Chọn 'Tạo tài khoản' đồng nghĩa với việc bạn đã đồng thuận với các Quy chế hoạt động của hệ sinh thái Skale.",
+    "rule_link": "https://skale.asia/chinh-sach-bao-mat/"
+  }
+}
